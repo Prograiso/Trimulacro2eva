@@ -11,4 +11,4 @@ Simuladro del examen triple de ED
 6.Redactar el proceso(md)
 ---
 
-###1 para el repositorio github solo hay que entrar clickar "new repository", rellenar los campos del nombre y de la descripcción elegir licencia, negar la carpeta gitignore y una vez creado copiar la url.
+### 1 para el repositorio github solo hay que entrar clickar "new repository", rellenar los campos del nombre y de la descripcción elegir licencia, negar la carpeta gitignore y una vez creado copiar la url.
