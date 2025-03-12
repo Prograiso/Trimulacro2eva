@@ -33,3 +33,17 @@ Para el repositorio accedemos a  [github](https://github.com) solo hay que entra
 ```
 3. Después cerramos el cmd y abrimos VS en esa carpeta para empexzar a trabajar.
 
+---
+
+<div id="punto6">
+</div>
+
+### Redactar proceso (md)
+
+Como ha visto, hemos redactado el proceso y usado los 3 pilares del examen de la siguiente manera:
+
+
+|   Markdown     |     git        |   Python    |
+|----------------|----------------|-------------|
+|Documentación   | Guía, Guardado | Ejercicios  |
+
