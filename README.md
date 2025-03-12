@@ -47,3 +47,4 @@ Como ha visto, hemos redactado el proceso y usado los 3 pilares del examen de la
 |----------------|----------------|-------------|
 |Documentación   | Guía, Guardado | Ejercicios  |
 
+1. OK

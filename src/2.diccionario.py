@@ -23,4 +23,6 @@ def contar_vocales(palabra):
 
 
 #no usamos input, metemos el parametro (palabra) a mano para ver el resultado
-print(contar_vocales("bucaramango"))        
+print(contar_vocales("bucaramango"))  
+
+ #fin      
