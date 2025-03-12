@@ -20,4 +20,5 @@ def contar_vocales(palabra):
 
     return resultado
 
-print(contar_vocales("bucaramango"))        
+
+pri#para imprimir ya fuera del bucle y en vez de input le metemos el parámetro en el printnt(contar_vocales("bucaramango"))        
