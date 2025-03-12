@@ -1,5 +1,31 @@
-print("Empezamos el simulactro triple")
-print("no recuerdo como run py en terminal... ya he creado el indice en README")
-print("vamos a guardar los cambios y empezar en serio con md y py")
+#MENU DE PY CON WHILE TRUE
 
-print("vale, he conseguido ejecutarlo, voya a hacer cambios aquí y en READMY a ver si desde src puedo hacer commits y push")
+while True:
+    print()
+    print("1. SUMAR")
+    print("2. RESTAR")
+    print("3. MULTIPLICAR")
+    print("4.SALIR")
+    print()
+
+    try:
+        opcion = int(input("Opcion: "))
+    except:
+        opcion > 0 or opcion > 4   
+
+    if opcion == 1 :
+        print("1. SUMAR")
+
+    elif opcion == 2 :
+        print("2. RESTAR")
+
+    elif opcion == 3 :
+        print("3. MULTIPLICAR")
+
+    elif opcion == 4 :
+        break
+
+    else:
+        print("Opcion incorrecta")
+
+print("\n Fin del programa")        
